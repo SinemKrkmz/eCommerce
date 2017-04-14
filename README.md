@@ -1,2 +1,2 @@
-# eCommerce Project
+# Java eCommerce Project
 Java EE Maven JSP Servlet
